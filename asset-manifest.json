@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/spacexapp/static/css/main.1777866d.chunk.css",
+    "main.js": "/spacexapp/static/js/main.20acfca5.chunk.js",
+    "main.js.map": "/spacexapp/static/js/main.20acfca5.chunk.js.map",
+    "runtime-main.js": "/spacexapp/static/js/runtime-main.4198ffec.js",
+    "runtime-main.js.map": "/spacexapp/static/js/runtime-main.4198ffec.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/spacexapp/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.0b1d3b88.chunk.js": "/spacexapp/static/js/2.0b1d3b88.chunk.js",
+    "static/js/2.0b1d3b88.chunk.js.map": "/spacexapp/static/js/2.0b1d3b88.chunk.js.map",
+    "index.html": "/spacexapp/index.html",
+    "precache-manifest.dd8842292aefe525e15616b75937a063.js": "/spacexapp/precache-manifest.dd8842292aefe525e15616b75937a063.js",
+    "service-worker.js": "/spacexapp/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/spacexapp/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.1777866d.chunk.css.map": "/spacexapp/static/css/main.1777866d.chunk.css.map",
+    "static/js/2.0b1d3b88.chunk.js.LICENSE.txt": "/spacexapp/static/js/2.0b1d3b88.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/spacexapp/static/media/logo.5d5d9eef.svg",
+    "static/media/logout_img.png": "/spacexapp/static/media/logout_img.6cd2fc7e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4198ffec.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.0b1d3b88.chunk.js",
+    "static/css/main.1777866d.chunk.css",
+    "static/js/main.20acfca5.chunk.js"
+  ]
+}
