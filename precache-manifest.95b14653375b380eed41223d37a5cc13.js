@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "885cd7bc2a38b9d74483546ec4c45eb8",
+    "revision": "381a075a17fa7695e3a72237a3356102",
     "url": "/spacexapp/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spacexapp/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "b43885c0f194024114ff",
-    "url": "/spacexapp/static/css/main.10408525.chunk.css"
+    "revision": "eebacdcfbad249a9d1d0",
+    "url": "/spacexapp/static/css/main.5662d3ae.chunk.css"
   },
   {
     "revision": "08dc6575b6b945256afa",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spacexapp/static/js/2.cb2ff4ca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b43885c0f194024114ff",
+    "revision": "eebacdcfbad249a9d1d0",
     "url": "/spacexapp/static/js/main.1a723289.chunk.js"
   },
   {

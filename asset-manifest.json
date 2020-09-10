@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/spacexapp/static/css/main.10408525.chunk.css",
+    "main.css": "/spacexapp/static/css/main.5662d3ae.chunk.css",
     "main.js": "/spacexapp/static/js/main.1a723289.chunk.js",
     "main.js.map": "/spacexapp/static/js/main.1a723289.chunk.js.map",
     "runtime-main.js": "/spacexapp/static/js/runtime-main.4198ffec.js",
@@ -9,10 +9,10 @@
     "static/js/2.cb2ff4ca.chunk.js": "/spacexapp/static/js/2.cb2ff4ca.chunk.js",
     "static/js/2.cb2ff4ca.chunk.js.map": "/spacexapp/static/js/2.cb2ff4ca.chunk.js.map",
     "index.html": "/spacexapp/index.html",
-    "precache-manifest.4794e5e3b29d1ecd1971ed5db5af27cb.js": "/spacexapp/precache-manifest.4794e5e3b29d1ecd1971ed5db5af27cb.js",
+    "precache-manifest.95b14653375b380eed41223d37a5cc13.js": "/spacexapp/precache-manifest.95b14653375b380eed41223d37a5cc13.js",
     "service-worker.js": "/spacexapp/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/spacexapp/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.10408525.chunk.css.map": "/spacexapp/static/css/main.10408525.chunk.css.map",
+    "static/css/main.5662d3ae.chunk.css.map": "/spacexapp/static/css/main.5662d3ae.chunk.css.map",
     "static/js/2.cb2ff4ca.chunk.js.LICENSE.txt": "/spacexapp/static/js/2.cb2ff4ca.chunk.js.LICENSE.txt",
     "static/media/logout_img.png": "/spacexapp/static/media/logout_img.6cd2fc7e.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.4198ffec.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.cb2ff4ca.chunk.js",
-    "static/css/main.10408525.chunk.css",
+    "static/css/main.5662d3ae.chunk.css",
     "static/js/main.1a723289.chunk.js"
   ]
 }
