@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/spacexapp/static/css/main.5662d3ae.chunk.css",
-    "main.js": "/spacexapp/static/js/main.1a723289.chunk.js",
-    "main.js.map": "/spacexapp/static/js/main.1a723289.chunk.js.map",
+    "main.css": "/spacexapp/static/css/main.01a12f86.chunk.css",
+    "main.js": "/spacexapp/static/js/main.26e65cb9.chunk.js",
+    "main.js.map": "/spacexapp/static/js/main.26e65cb9.chunk.js.map",
     "runtime-main.js": "/spacexapp/static/js/runtime-main.4198ffec.js",
     "runtime-main.js.map": "/spacexapp/static/js/runtime-main.4198ffec.js.map",
     "static/css/2.af3c1da9.chunk.css": "/spacexapp/static/css/2.af3c1da9.chunk.css",
     "static/js/2.cb2ff4ca.chunk.js": "/spacexapp/static/js/2.cb2ff4ca.chunk.js",
     "static/js/2.cb2ff4ca.chunk.js.map": "/spacexapp/static/js/2.cb2ff4ca.chunk.js.map",
     "index.html": "/spacexapp/index.html",
-    "precache-manifest.95b14653375b380eed41223d37a5cc13.js": "/spacexapp/precache-manifest.95b14653375b380eed41223d37a5cc13.js",
+    "precache-manifest.178cbcb5e3bf8b55898e2fbf61e7d8ac.js": "/spacexapp/precache-manifest.178cbcb5e3bf8b55898e2fbf61e7d8ac.js",
     "service-worker.js": "/spacexapp/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/spacexapp/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.5662d3ae.chunk.css.map": "/spacexapp/static/css/main.5662d3ae.chunk.css.map",
+    "static/css/main.01a12f86.chunk.css.map": "/spacexapp/static/css/main.01a12f86.chunk.css.map",
     "static/js/2.cb2ff4ca.chunk.js.LICENSE.txt": "/spacexapp/static/js/2.cb2ff4ca.chunk.js.LICENSE.txt",
     "static/media/logout_img.png": "/spacexapp/static/media/logout_img.6cd2fc7e.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.4198ffec.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.cb2ff4ca.chunk.js",
-    "static/css/main.5662d3ae.chunk.css",
-    "static/js/main.1a723289.chunk.js"
+    "static/css/main.01a12f86.chunk.css",
+    "static/js/main.26e65cb9.chunk.js"
   ]
 }
