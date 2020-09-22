@@ -19,10 +19,10 @@ function App() {
     <Router basename="spacexapp">
       <Switch>
         <Route exact path="/" component={Login} />
-        <Route exact path="/home" component={Home} />
-        <Route exact path="/launches" component={Launches} />
-        <Route exact path="/rockets" component={Rockets} />
-        <Route exact path="/dragons" component={Dragons} />
+        <Route path="/home" component={Home} />
+        <Route path="/launches" component={Launches} />
+        <Route path="/rockets" component={Rockets} />
+        <Route path="/dragons" component={Dragons} />
       </Switch>
     </Router>
   );
