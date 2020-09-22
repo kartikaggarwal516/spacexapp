@@ -1,0 +1,13 @@
+.home{
+    height: 100vh;
+    background-image: url("https://www.spacex.com/static/images/backgrounds/starship_feature.webp");
+    background-size: cover;       
+}
+
+.homebox{
+    width: 60vw;
+    display: flex;
+    flex-direction: column;
+    margin: 50px;
+    color: white;
+}
