@@ -6,7 +6,17 @@ const loginurl = "https://run.mocky.io/v3/689bee42-50f3-4da7-9046-64bde3a0317b"
 
 class Login extends Component {
     state = {
-        users: [],
+        users: [{
+            user: 'Kartik',
+            pwd: 'kartik',
+            role: 'admin'
+        },
+        {
+            user: 'Aman',
+            pwd: 'aman',
+            role: 'user'
+        }
+    ],
         errors: {
             user: "",
             pwd: "",
@@ -54,18 +64,18 @@ class Login extends Component {
     }
 
     getUserData = () => {
-        axios.get(loginurl)
-            .then((response) => {
-                // handle success                
-                this.setState({ users: response.data })                
-            })
-            .catch(function (error) {
-                // handle error
-                console.log(error);
-            })
-            .finally(function () {
-                // always executed
-            });
+        // axios.get(loginurl)
+        //     .then((response) => {
+        //         // handle success                
+        //         this.setState({ users: response.data })                
+        //     })
+        //     .catch(function (error) {
+        //         // handle error
+        //         console.log(error);
+        //     })
+        //     .finally(function () {
+        //         // always executed
+        //     });
     }
 
     componentDidMount() {
